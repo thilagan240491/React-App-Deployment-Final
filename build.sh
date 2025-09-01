@@ -2,7 +2,7 @@
 #
 
 
-#docker login -u $DOCKER_USERNAME -p $DOCKER_PASS
+docker login -u $DOCKER_USERNAME -p $DOCKER_PASS
 
 docker stop react
 
